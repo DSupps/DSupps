@@ -64,8 +64,8 @@
         <img height="64px" src="https://uploaddeimagens.com.br/images/003/364/436/thumb/download.png?1627995962">
       </td>
       <td width="25%" align="center">
-        <span>Selenium</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/selenium.svg">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR33YWN4nREm3Sn00FC6aszyKRLZFwdk98QqpDev5rGGvkc0FOtBAxdXqncBJ5NGywonRM&usqp=CAU">
       </td>
      </tr>
       <td width="25%" align="center">
