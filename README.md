@@ -3,7 +3,7 @@
 <div> 
   <a href = "mailto:davidasupple@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davidasupple/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://public.tableau.com/app/profile/david.supple#!/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://public.tableau.com/app/profile/david.supple#!/" target="_blank"><img src="![public](https://user-images.githubusercontent.com/36451701/140849346-691b529c-912a-44ed-b711-3db134b9447b.png)" target="_blank"></a>
    <a href="https://www.kaggle.com/davidsupple" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
  
 # About me
