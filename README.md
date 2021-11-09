@@ -73,8 +73,8 @@
         <img height="64px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Heroku</span><br><br>
-        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+        <span>D3</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nx69eDXd6Pjt3i_4vuXAkCZ3UXQa5zIyp6OdBQlfpJ_mQU2_SIHhEagnW7YCW7EiYP0&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>Power BI</span><br><br>
