@@ -74,7 +74,7 @@
       </td>
       <td width="25%" align="center">
         <span>D3</span><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Fvze7SEGOmFcovOXUa3z2hGKDfKXzfcAdO1l7nsq9bw3qwIaFsEpXbtyHfrg6D4eQ9M&usqp=CAU">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGBcHDDBjqTepT1U3s_iuoA1xgDVNVrJhg5VMNssKE9tao4tuKLBSiVzV3Ga8f7d5P8M&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>Power BI</span><br><br>
