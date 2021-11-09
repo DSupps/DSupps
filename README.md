@@ -29,7 +29,7 @@
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c/file.png">
       </td>
     </tr>
     <tr valign="top">
