@@ -81,8 +81,8 @@
         <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
       </td>
       <td width="25%" align="center">
-        <span>Qlik</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/qlik.svg">
+        <span>R Studio</span><br><br>
+        <img height="64px" src="https://www.kindpng.com/picc/m/235-2350384_r-studio-logo-transparent-hd-png-download.png">
       </td>
     </tr>
   </tbody>
