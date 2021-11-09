@@ -77,8 +77,8 @@
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGBcHDDBjqTepT1U3s_iuoA1xgDVNVrJhg5VMNssKE9tao4tuKLBSiVzV3Ga8f7d5P8M&usqp=CAU">
       </td>
       <td width="25%" align="center">
-        <span>Power BI</span><br><br>
-        <img height="64px" src="https://uploaddeimagens.com.br/images/002/851/738/full/powerbi_logo.png?1598489763">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFO8sps8nqu4or_MEW2aMimA4AjQ172jpcA&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>R Studio</span><br><br>
