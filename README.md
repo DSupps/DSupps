@@ -21,7 +21,7 @@
       </td>
       <td width="25%" align="center">
         <span>PostgreSQL</span><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9Jan1QWvgGb62L665nAFqNUCo6LZINbXVkiEdynXsc5WtpIk6Ny6riHUO0a9ZlqnxIQ&usqp=CAU">
+        <img height="64px" src="https://www.influxdata.com/wp-content/uploads/PostgreSQL-logo.jpg">
       </td>
       <td width="25%" align="center">
         <span>pandas</span><br><br>
