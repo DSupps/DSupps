@@ -7,7 +7,12 @@
  
 # About me
   
-Business analyst with a background in digital marketing before taking a hard left hand and submerging myself into data analytics
+Business analyst with a background in digital marketing before taking a hard left hand and submerging myself into data analytics.
+
+I enjoy leveraging data to find solutions and create corresponding results via presentations and reports to tell a compelling story.  
+  
+My strengths include analytical problem solving abilities to leverage data with collaborating amongst cross-functional teams to find solutions to problems and help achieve their goals.
+
 </div>
 
 ## Skills
