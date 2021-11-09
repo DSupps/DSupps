@@ -56,8 +56,8 @@
         <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
       </td>
       <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
-        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+        <span>Drupal</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0-w2nGZTh-9WY7bxuaM0gKCHNIKB8gosKlZSIISfbIDV-LA3rKF-LSCLbcXqzp1QzYA&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>BeautifulSoup</span><br><br>
