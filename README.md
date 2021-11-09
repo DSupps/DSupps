@@ -7,6 +7,8 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
  
 # About me
+  
+</div>
 
 <!--
 **DSupps/DSupps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
