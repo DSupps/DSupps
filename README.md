@@ -7,6 +7,7 @@
  
 # About me
   
+Business analyst with a background in digital marketing before taking a hard left hand and submerging myself into data analytics
 </div>
 
 ## Skills
